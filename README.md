@@ -18,6 +18,7 @@ The following ** users can see a screen with three labels and a button and when 
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
+/Users/vinnie/Documents/Kapture 2024-12-11 at 13.45.49.gif
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
