@@ -8,7 +8,7 @@ Time spent: ** 6 hours** hours spent in total
 
 ## Required Features
 
-The following ** users can see a screen with three labels and a button and when users tap on the button then background color changes randomly** functionality is completed:
+The following ** users can see a screen with three labels and a button and when users tap on the button the background color changes randomly** functionality is completed:
 
 
 - [ ] Users are see a screen with three labels and a button
@@ -20,7 +20,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 https://www.loom.com/share/fd8eb9d48eb3479782ceec0b5b69f31d?sid=536e9451-5b76-42c7-a1e0-9a99a5a5e7ff
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4). 
-I tried screening recording using the kap but it Kept bringing up some errors that I need to report and I decided thee tutorial given about loom and embedded my video on GitHub using it.
+I tried screening recording using the kap but it Kept bringing up some errors that I needed to report I decided the tutorial given about loom and embedded my video on GitHub using it.
 
 ## App Brainstorming (Step 4)
 favourite apps
@@ -38,11 +38,13 @@ WhatsApp - It's a major form of communication for most people in my country, Ken
  - E-commerce - It allows for shopping with TikTok shops
  _ FYP, the For You Page - the algorithm personalizes feeds for users making them see contents that are of importance to them
  APP Brainstorm
-I want to build an app that integrates all international money remittance platforms, making them easily accessible to users as they can easily compare transfer exchange rates.
+I would like to build an app that integrates all international money remittance services, allowing users to compare transfer exchange rates and delivery times across the
+various providers, simplifying the process. I will include leading platforms like Send Wave with real-time data for exchange rates, transfer rates, and delivery times. Users
+can compare providers based on exchange rates and time taken for delivery across different locations. Users will be able to create their profiles and see their transaction history, and the app can also monitor their favorite providers to ease the process. I am, however, unsure about some of the processes especially if I need permission from these providers or not. 
 ## Notes
 
 Describe any challenges encountered while building the app.
-My challenge was mostly after the building process, with the screen recording  and gif but I managed to do it with loom.
+My challenge was mostly after the building process, with the screen recording  and GIF but I managed to do it with loom.
 
 ## License
 
