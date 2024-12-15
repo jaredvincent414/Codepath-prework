@@ -20,11 +20,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 https://www.loom.com/share/fd8eb9d48eb3479782ceec0b5b69f31d?sid=536e9451-5b76-42c7-a1e0-9a99a5a5e7ff
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4). 
+I tried screening recording using the kap but it Kept bringing up some errors that I need to report and I decided thee tutorial given about loom and embedded my video on GitHub using it.
 
 ## App Brainstorming (Step 4)
 favourite apps
 - Spotify - I listen to music a lot
-favorite features: personalized playlist with weekly top listened to, new releases, and concerts near me based on my listening
+favorite features: a personalized playlist with weekly top listened to, new releases, and concerts near me based on my listening
                   - Cross-device listening; I can control music from my iPhone and MacBook effortlessly
                   offline listening: I can download music and listen to it when I don't have access to the internet
                   
@@ -36,8 +37,8 @@ WhatsApp - It's a major form of communication for most people in my country, Ken
  - TikTok allows creators to make content together (Duet)
  - E-commerce - It allows for shopping with TikTok shops
  _ FYP, the For You Page - the algorithm personalizes feeds for users making them see contents that are of importance to them
-  APP Brainstorm
-
+ APP Brainstorm
+I want to build an app that integrates all international money remittance platforms, making them easily accessible to users as they can easily compare transfer exchange rates.
 ## Notes
 
 Describe any challenges encountered while building the app.
