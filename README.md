@@ -4,7 +4,7 @@ Submitted by: **Vincent Jared**
 
 **First App** is an app that... has three labels showing a name, school, and career. The app also has a button that when tapped changes the background color randomly and the label's text color as well. It also has text view fields for users to add names and phone numbers [TODO] 
 
-Time spent: ** 6 hours** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
