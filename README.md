@@ -42,6 +42,7 @@ I want to build an app that integrates all international money remittance platfo
 ## Notes
 
 Describe any challenges encountered while building the app.
+My challenge was mostly after the building process, with the screen recording  and gif but I managed to do it with loom.
 
 ## License
 
